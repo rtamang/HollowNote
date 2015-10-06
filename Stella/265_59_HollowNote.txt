@@ -1,0 +1,26 @@
+03/10/2015_11:46:00
+Thoughts:
+if used created star - have changeable sizes
+can also be used in any images (freedom)
+Turns out its about creation - no need to go to specific place
+Creativity: is the capability or act of conceiving something original or unusual
+Innovation: is the implementation of something new.
+Invention: is the creation of something that has never been made before and is recognised as the product of some unique insight.
+Done:
+-get coordinates on click
+-get glow css of circle forming star //Need Glow onclick to appear (Not used)
+-onclick create div
+-web server setup //php
+-‘Load’ Stars (set to image): File name reader
+Completed: data read though php assigned to javascript var.
+Data split('_',',')set and used for nDivs.
+-data file save and structure: Think:Done
+Name = x-cod_y-cod_name
+Data = Date & Time Stamp
+-Whole Data read completed
+-Data write completed
+-Menu required:
+Name: Coordinates (altered need for reset) || Date & Time Stamp || Star ID:no need
+create: completed
+remove: completed
+view: completed
