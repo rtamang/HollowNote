@@ -7,23 +7,23 @@ The concept for this application derived from stars of the night sky, as I wante
 I start one, where I name a star by the project name and store notes in it.
 
 # What is used:
--HTML
--CSS
--javascript
--jquery
--php
+-HTML<br />
+-CSS<br />
+-javascript<br />
+-jquery<br />
+-php<br />
 -apache web server
 
 # Extras:
--It does not have to be star image it can be anything. (change image in <img>);
--Image section can be change though css .setBox
--New features can also be added to improve, i.e. to search stars or the high way inspect source.
--Stars can also be create onclick using CSS assigned to div.
--All notes are stored in text file in Stella folder. (can be changed)
--For test create new or find 265_59_HollowNote from image (play around).
+-It does not have to be star image it can be anything. (change image in <img>);<br />
+-Image section can be change though css .setBox<br />
+-New features can also be added to improve, i.e. to search stars or the high way inspect source.<br />
+-Stars can also be create onclick using CSS assigned to div.<br />
+-All notes are stored in text file in Stella folder. (can be changed)<br />
+-For test create new or find 265_59_HollowNote from image (play around).<br />
 
 # Instruction: it is easy to use but >>
--Double click any point of the image to create a section.
+-Double click any point of the image to create a section.<br />
 -The use the menu on the left to create. Rest of the button are self explanatory.
 
 # Enjoy;
